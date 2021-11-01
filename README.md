@@ -1,1 +1,2 @@
-Bu proje html ödevinin projesidir.
+Bu ödev "HTML GİRİŞ" proje ödevidir.
+ilk web sayfam.
